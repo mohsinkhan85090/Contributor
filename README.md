@@ -89,7 +89,7 @@ $ cd <your-forked-project-folder>
 $ git remote add upstream https://github.com/<author-account-username>/<original-project>.git
 ```
 
-5️⃣ 👀Check Remotes: Verify the remote connections.
+5️⃣ 👀Check Remotes: Verify the remote connections
 
 ```bash
 $ git remote -v
